@@ -1,4 +1,4 @@
 # first-project
 This is my first project.
 <br>
-Author - Soumya Gulati
+Author - Soumya Gulati (sanya)
